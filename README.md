@@ -69,12 +69,12 @@ pip install ipykernel
 ```
 
 
-### ⚙️ Optional: for plotting-
+### Optional: for plotting-
 ```bash
 pip install matplotlib seaborn
 ```
 
-### ⚙️ Optional: Martini patch for OpenMM-
+### Optional: Martini patch for OpenMM-
 ```bash
 git clone https://github.com/maccallumlab/martini_openmm.git
 cd martini_openmm/
