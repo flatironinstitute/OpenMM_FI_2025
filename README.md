@@ -78,6 +78,7 @@ pip install matplotlib seaborn
 git clone https://github.com/maccallumlab/martini_openmm.git
 cd martini_openmm/
 python setup.py install
+pip install mdtraj
 ```
 
 ---
