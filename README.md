@@ -87,3 +87,4 @@ python setup.py install
 
 -  [OpenMM Documentation](http://docs.openmm.org)
 -  [OpenMM GitHub Repository](https://github.com/openmm/openmm)
+-  [Miro Astore's Github for MD and enhanced sampling methods](https://github.com/Miro-Astore/openmm_workflow)
