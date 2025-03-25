@@ -60,6 +60,7 @@ pip install pyyaml
 pip install git+https://github.com/choderalab/mpiplus.git
 pip install pymbar
 pip install numba
+pip install mdtraj
 ```
 
 ### Might need ipykernel for running the notebook:
@@ -78,7 +79,6 @@ pip install matplotlib seaborn
 git clone https://github.com/maccallumlab/martini_openmm.git
 cd martini_openmm/
 python setup.py install
-pip install mdtraj
 ```
 
 ---
