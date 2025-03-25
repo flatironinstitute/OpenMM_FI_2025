@@ -51,6 +51,17 @@ pip install openmm[cuda12]
 ```bash
 python -m openmm.testInstallation
 ```
+
+### Install openmmtools:
+```bash
+pip install git+https://github.com/jharrymoore/openmmtools.git@development
+pip install pyyaml
+pip install git+https://github.com/choderalab/mpiplus.git
+pip install pymbar
+pip install numba
+```
+
+
 ### ⚙️ Optional: for plotting-
 ```bash
 pip install matplotlib seaborn
