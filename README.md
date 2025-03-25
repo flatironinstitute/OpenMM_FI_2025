@@ -62,6 +62,11 @@ pip install pymbar
 pip install numba
 ```
 
+### Might need ipykernel for running the notebook:
+```bash
+pip install ipykernel
+```
+
 
 ### ⚙️ Optional: for plotting-
 ```bash
