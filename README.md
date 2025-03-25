@@ -37,6 +37,7 @@ python -c "import openmm; print(openmm.version.version)"
 - Use `pip` in a `venv`
 - Optional: `matplotlib`, `seaborn` for plotting
 - Optional: Patch OpenMM for Martini support
+- Verified 03/25
 
 ### ⚙️ Installation:
 ```bash
