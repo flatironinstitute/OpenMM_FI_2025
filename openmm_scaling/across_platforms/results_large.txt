@@ -1,0 +1,4 @@
+CUDA {'DeviceIndex': '0', 'Precision': 'single'}: 7199.95 steps/sec
+CUDA {'DeviceIndex': '0,1', 'Precision': 'single'}: 5888.85 steps/sec
+CUDA {'DeviceIndex': '0,1,2', 'Precision': 'single'}: 6882.08 steps/sec
+OpenCL {'DeviceIndex': '0', 'Precision': 'single'}: 6344.96 steps/sec
